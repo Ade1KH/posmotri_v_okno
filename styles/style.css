@@ -148,8 +148,7 @@ ol {
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
   content: "";
-  position: absolute;
-  left: 1px;
+  margin-left: 1px;
   display: block;
   width: 13px;
   height: 13px;
