@@ -137,7 +137,6 @@ ol {
 }
 
 .search-form__pseudo-checkbox {
-  position: relative;
   display: flex;
   align-items: center;
   width: 15px;
