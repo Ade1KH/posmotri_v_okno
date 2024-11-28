@@ -47,10 +47,6 @@ ol {
   min-width: 1140px;
 }
 
-.content__list {
-  position: relative;
-}
-
 .result {
   display: flex;
   flex-direction: column;
